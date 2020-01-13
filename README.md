@@ -1,10 +1,7 @@
-# Freshqo
+# Freshqo - Restaurant Planner
 This is a restaurant management application using Java and Maven.
 
-# Restaurant Planner
-
 ## Features/Functions
-
 
 Basics (Restaurant Layout, Reservations, Orders, Billing & Payment)
 
